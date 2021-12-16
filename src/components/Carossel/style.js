@@ -8,7 +8,6 @@ position:relative;
 background-color:#EE8262;
 display:flex;
 justify-content:space-between;
-
 border:solid black;
 `
 export const ImgRasengan= styled.img`
@@ -30,10 +29,10 @@ background-position: 26% 30%;
 `
 
 export const ImgChidori= styled.img`
-width:27vw;
+width:32vw;
 position:absolute;
-top:-24%;
-left:47%;
+top:-29%;
+left:42%;
 `
 export const CardChidori= styled.div`
 width:37vw;

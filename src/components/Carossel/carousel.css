@@ -1,4 +1,6 @@
 .rasengan{
+  width:36vw;
+  margin-left: 12.5%;
     animation: logoRotate 1s linear 2s infinite normal both;
   }
   
@@ -16,6 +18,10 @@
   }
 
   .chidori{
+    width: 39vw;
+    position: relative;
+    bottom: 37%;
+    right: 31%;
     animation: logoRotate 4s linear 2s infinite normal both;
   }
   

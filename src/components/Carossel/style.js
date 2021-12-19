@@ -11,10 +11,7 @@ justify-content:space-between;
 border:solid black;
 `
 export const ImgRasengan= styled.img`
-width:29vw;
-position:absolute;
-left:12.5%;
-top:5%;
+ 
 `
 export const CardRasengan= styled.div`
 width:37vw;
@@ -29,10 +26,7 @@ background-position: 26% 30%;
 `
 
 export const ImgChidori= styled.img`
-width:32vw;
-position:absolute;
-top:-29%;
-left:42%;
+ 
 `
 export const CardChidori= styled.div`
 width:37vw;
